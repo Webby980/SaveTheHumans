@@ -1,0 +1,32 @@
+C:\git\Save the Humans\Save the Humans\bin\Debug\App.xbf
+C:\git\Save the Humans\Save the Humans\bin\Debug\MainPage.xbf
+C:\git\Save the Humans\Save the Humans\bin\Debug\Save the Humans.xr.xml
+C:\git\Save the Humans\Save the Humans\bin\Debug\Save the Humans.exe
+C:\git\Save the Humans\Save the Humans\bin\Debug\Save the Humans.pdb
+C:\git\Save the Humans\Save the Humans\bin\Debug\resources.pri
+C:\git\Save the Humans\Save the Humans\bin\Debug\AppxManifest.xml
+C:\git\Save the Humans\Save the Humans\bin\Debug\Save the Humans.build.appxrecipe
+C:\git\Save the Humans\Save the Humans\obj\Debug\App.g.i.cs
+C:\git\Save the Humans\Save the Humans\obj\Debug\App.g.cs
+C:\git\Save the Humans\Save the Humans\obj\Debug\MainPage.g.i.cs
+C:\git\Save the Humans\Save the Humans\obj\Debug\MainPage.g.cs
+C:\git\Save the Humans\Save the Humans\obj\Debug\XamlTypeInfo.g.cs
+C:\git\Save the Humans\Save the Humans\obj\Debug\App.xaml
+C:\git\Save the Humans\Save the Humans\obj\Debug\MainPage.xaml
+C:\git\Save the Humans\Save the Humans\obj\Debug\App.xbf
+C:\git\Save the Humans\Save the Humans\obj\Debug\MainPage.xbf
+C:\git\Save the Humans\Save the Humans\obj\Debug\XamlSaveStateFile.xml
+C:\git\Save the Humans\Save the Humans\obj\Debug\Save the Humans.exe
+C:\git\Save the Humans\Save the Humans\obj\Debug\Save the Humans.pdb
+C:\git\Save the Humans\Save the Humans\obj\Debug\priconfig.xml
+C:\git\Save the Humans\Save the Humans\obj\Debug\priconfig.xml.intermediate
+C:\git\Save the Humans\Save the Humans\obj\Debug\layout.resfiles
+C:\git\Save the Humans\Save the Humans\obj\Debug\layout.resfiles.intermediate
+C:\git\Save the Humans\Save the Humans\obj\Debug\resources.resfiles
+C:\git\Save the Humans\Save the Humans\obj\Debug\resources.resfiles.intermediate
+C:\git\Save the Humans\Save the Humans\obj\Debug\pri.resfiles
+C:\git\Save the Humans\Save the Humans\obj\Debug\pri.resfiles.intermediate
+C:\git\Save the Humans\Save the Humans\obj\Debug\qualifiers.txt
+C:\git\Save the Humans\Save the Humans\obj\Debug\qualifiers.txt.intermediate
+C:\git\Save the Humans\Save the Humans\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\git\Save the Humans\Save the Humans\obj\Debug\ProjectArchitectures.txt
