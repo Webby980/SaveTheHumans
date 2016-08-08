@@ -43,7 +43,7 @@
         </Grid.RowDefinitions>
 
         <!-- Back button and page title -->
-        <Grid Grid.ColumnSpan="3">
+        <Grid x:Name="grid" Grid.ColumnSpan="3">
             <Grid.ColumnDefinitions>
                 <ColumnDefinition Width="120"/>
                 <ColumnDefinition Width="*"/>
@@ -63,19 +63,19 @@
             <ContentControl Content="ContentControl" HorizontalAlignment="Center" VerticalAlignment="Center" Template="{StaticResource EnemyTemplate}"/>
         </StackPanel>
         <ProgressBar x:Name="progressBar" Grid.Column="1" Grid.Row="2" Height="20"/>
-        <Canvas x:Name="playArea" Grid.Row="1" Grid.ColumnSpan="3">
+        <Canvas x:ConnectionId='2' x:Name="playArea" Grid.ColumnSpan="3" Grid.Row="1"                                                                            >
             <Canvas.Background>
                 <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
                     <GradientStop Color="#FFA640EE" Offset="0"/>
                     <GradientStop Color="#FF3BB927" Offset="1"/>
                 </LinearGradientBrush>
             </Canvas.Background>
-            <StackPanel x:Name="human" Orientation="Vertical">
+            <StackPanel x:ConnectionId='3' x:Name="human" Orientation="Vertical"                                      >
                 <Ellipse Height="10" Fill="White" Width="10"/>
                 <Rectangle Fill="White" Height="25" Width="10"/>
             </StackPanel>
-            <TextBlock x:ConnectionId='2' x:Name="gameOverText" Canvas.Left="447" TextWrapping="Wrap" Text="Game Over" Canvas.Top="180" FontFamily="Arial Black" FontSize="100" FontWeight="Bold" FontStyle="Italic"                                                 />
-            <Rectangle x:Name="target" Height="50" Canvas.Left="675" Canvas.Top="35" Width="50" RenderTransformOrigin="0.5,0.5">
+            <TextBlock x:ConnectionId='4' x:Name="gameOverText" Canvas.Left="447" TextWrapping="Wrap" Text="Game Over" Canvas.Top="180" FontFamily="Arial Black" FontSize="100" FontWeight="Bold" FontStyle="Italic"                                                 />
+            <Rectangle x:ConnectionId='5' x:Name="target" Height="50" Canvas.Left="675" Canvas.Top="35" Width="50" RenderTransformOrigin="0.5,0.5"                                       >
                 <Rectangle.RenderTransform>
                     <CompositeTransform Rotation="45"/>
                 </Rectangle.RenderTransform>
